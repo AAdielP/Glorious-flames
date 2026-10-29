@@ -1,4 +1,4 @@
-
+{
     "name": "Glorious flames",
     "description": "Deep teal-black Cinder meets warm coral Flame. Dark and warm.",
     "version": "1.4",
@@ -421,6 +421,217 @@
             "#141e21",
             "#e8dfd5"
         ],
+        "POLLS_VICTOR_FILL": [
+            "#FF7F5055",
+            "#FF7F5055"
+        ],
+        "POLLS_VOTED_FILL": [
+            "#FF7F5044",
+            "#FF7F5044"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#2a3a3e",
+            "#d0c8c0"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#141e21",
+            "#f0e8e0"
+        ],
+        "STATUS_OFFLINE": [
+            "#2a3a3e",
+            "#c8c0b8"
+        ],
+        "STATUS_DANGER": [
+            "#ffd0b8",
+            "#2a1808"
+        ],
+        "STATUS_WARNING": [
+            "#ffd0b8",
+            "#2a1808"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#FF7F50",
+            "#d45f30"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#142820"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#3ba55d"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#2a2010"
+        ],
+        "STATUS_WARNING_TEXT": [
+            "#faa81a"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#2a1510"
+        ],
+        "BUTTON_OUTLINE_DANGER_BORDER": [
+            "#FF7F50",
+            "#d45f30"
+        ],
+        "KEYBOARD": [
+            "#141e21",
+            "#f0e8e0"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#FF7F5040",
+            "#FF7F5040"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#FF7F5060",
+            "#FF7F5060"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "CHAT_MENTIONS_BACKGROUND": [
+            "#FF7F5018",
+            "#FF7F5018"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffd0b8",
+        "PRIMARY_200": "#f0c0a8",
+        "PRIMARY_300": "#e0b098",
+        "PRIMARY_330": "#d0a088",
+        "PRIMARY_360": "#c09078",
+        "PRIMARY_400": "#a07060",
+        "PRIMARY_460": "#1e2b2f",
+        "PRIMARY_500": "#7a9098",
+        "PRIMARY_530": "#4a6068",
+        "PRIMARY_600": "#192428",
+        "PRIMARY_630": "#141e21",
+        "PRIMARY_645": "#FF7F50",
+        "PRIMARY_660": "#111c1f",
+        "PRIMARY_700": "#192428",
+        "PRIMARY_730": "#141e21",
+        "PRIMARY_800": "#0d1518",
+        "PLUM_0": "#FF7F50",
+        "PLUM_3": "#ffd0b8",
+        "PLUM_4": "#e8b898",
+        "PLUM_6": "#FF7F50",
+        "PLUM_10": "#7a9098",
+        "PLUM_11": "#2a3a3e",
+        "PLUM_13": "#FF7F50",
+        "PLUM_14": "#2a3a3e",
+        "PLUM_15": "#FF7F50",
+        "PLUM_16": "#111c1f",
+        "PLUM_17": "#141e21",
+        "PLUM_18": "#192428",
+        "PLUM_20": "#141e21",
+        "PLUM_22": "#1e2b2f",
+        "PLUM_23": "#1e2b2f",
+        "PLUM_24": "#141e21",
+        "BRAND_260": "#FF7F50aa",
+        "BRAND_300": "#FF7F50",
+        "BRAND_330": "#FF7F50",
+        "BRAND_345": "#FF7F50",
+        "BRAND_360": "#FF7F50",
+        "BRAND_400": "#FF7F50",
+        "BRAND_430": "#FF7F50",
+        "BRAND_460": "#FF7F50",
+        "BRAND_500": "#FF7F50",
+        "BRAND_530": "#e06840",
+        "BRAND_560": "#c05830",
+        "BRAND_600": "#a04820",
+        "BRAND_630": "#803818",
+        "BRAND_660": "#602810",
+        "BRAND_700": "#401808",
+        "BRAND_730": "#2a1005",
+        "GUILD_BOOSTING_BLUE": "#192428",
+        "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#1e2b2f",
+        "GUILD_BOOSTING_PINK": "#FF7F50",
+        "GUILD_BOOSTING_PURPLE": "#243336",
+        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#1e2b2f",
+        "PREMIUM_PERK_PINK": "#FF7F50",
+        "PREMIUM_TIER_0_HEADER_GRADIENT_1": "#192428",
+        "PREMIUM_TIER_0_HEADER_GRADIENT_2": "#1e2b2f",
+        "PREMIUM_TIER_0_HEADER_GRADIENT_3": "#1e2b2f",
+        "PREMIUM_TIER_0_HEADER_GRADIENT_4": "#192428",
+        "BLURPLE_8": "#FF7F50",
+        "BLURPLE_5": "#FF7F50",
+        "RED_360": "#e07070",
+        "RED_400": "#e07070",
+        "RED_430": "#c05050",
+        "GREEN_360": "#70b898",
+        "GREEN_400": "#3ba55d",
+        "GREEN_430": "#359950",
+        "ORANGE_260": "#FF7F50",
+        "ORANGE_300": "#FF7F50",
+        "ORANGE_360": "#FF7F50",
+        "ORANGE_400": "#FF7F50",
+        "ORANGE_500": "#FF7F50",
+        "YELLOW_260": "#e09858",
+        "YELLOW_400": "#e09858",
+        "YELLOW_500": "#e09858",
+        "BLUE_400": "#7a9098",
+        "BLUE_500": "#7a9098",
+        "WHITE_630": "#7a9098",
+        "ROLE_DEFAULT": "#1e2b2f",
+        "BLACK_460": "#1e2b2f",
+        "CHAT_MENTIONS_BACKGROUND_DARK": "#FF7F5030",
+        "CHAT_MENTIONS_FOREGROUND_DARK": "#FF7F50"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://files.catbox.moe/sceiwo.png",
+        "alpha": 1
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "solarbroken",
+        "mentionLineColor": "#FF7F50",
+        "customOverlays": true,
+        "icons": {
+            "ic_radio_circle_checked": "#FF7F50",
+            "ic_radio_circle_checked__overlay": "#111c1f",
+            "ic_radio_square_24px": "#FF7F50",
+            "ic_radio_square_checked_24px": "#FF7F50",
+            "ic_radio_square_checked_24px__overlay": "#111c1f",
+            "ic_rich_presence_dark_12px": "#7a9098",
+            "ic_selection_checked_24px": "#FF7F50",
+            "ic_selection_checked_24px__overlay": "#111c1f",
+            "ic_selection_none_24px": "#2a3a3e",
+            "ic_star_filled": "#FF7F50",
+            "img_guild_folder": "#FF7F50",
+            "StatusMobileOnline": "#FF7F50",
+            "StatusOnline": "#3ba55d",
+            "StatusIdle": "#faa81a",
+            "StatusDND": "#ed4245",
+            "StatusOffline": "#2a3a3e",
+            "ic_send": "#111c1f",
+            "ic_send__overlay": "#FF7F50",
+            "friends_toast_icon": "#FF7F50",
+            "toast_copy_link": "#FF7F50",
+            "toast_copy_message": "#FF7F50",
+            "toast_image_saved": "#FF7F50",
+            "toast_invite_sent": "#FF7F50",
+            "ic_crown_16px": "#FF7F50",
+            "member_list_badge_16px": "#FF7F50",
+            "ic_nitro_rep_24px": "#FF7F50",
+            "ShopIcon": "#FF7F50",
+            "PencilIcon": "#FF7F50",
+            "SettingsIcon": "#FF7F50",
+            "MagnifyingGlassIcon": "#FF7F50",
+            "search": "#FF7F50",
+            "MoreHorizontalIcon": "#FF7F50",
+            "UserCheckIcon": "#FF7F50",
+            "NitroWheelIcon": "#FF7F50",
+            "down_arrow": "#FF7F50",
+            "QuestsIcon": "#FF7F50"
+        }
+    },
+    "spec": 2
+}
+       ],
         "POLLS_VICTOR_FILL": [
             "#FF7F5055",
             "#FF7F5055"
